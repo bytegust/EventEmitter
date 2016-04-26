@@ -1,6 +1,7 @@
 {
     "name": "wolfy87-eventemitter",
-    "version": "4.3.0",
+    "version": "0.1.0",
+    "private": true,
     "description": "Event based JavaScript for the browser",
     "main": "EventEmitter.js",
     "directories": {
